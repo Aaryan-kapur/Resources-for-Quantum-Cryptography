@@ -1,0 +1,8 @@
+https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html
+
+
+https://quantumxc.com/quantum-cryptography-explained/
+
+FOR REFERENCES:  
+	https://link.springer.com/chapter/10.1007/978-3-642-11731-2_35
+	https://link.springer.com/chapter/10.1007/978-3-642-38616-9_9
